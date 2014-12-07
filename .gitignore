@@ -3,3 +3,4 @@
 *.pyc
 flask/*
 app.db*
+tmp/*
